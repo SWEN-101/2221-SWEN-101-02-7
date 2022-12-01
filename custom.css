@@ -52,94 +52,43 @@ nav ul li a{
 .auto_type{
     color: aqua;
 }
-.headline_subtext{
-    text-align: center;
-    font-size: 2em;
-    color: #fff;
-
+.News{
+    margin-top: 5em;
+    font-size: larger;
+    backdrop-filter: blur(4px);
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 80vw;
+    margin: auto;
+    margin-top: 1.8em;
+    height: 15vh;
 }
-.learn_more_button{
-    text-align: center;
-    margin-top: 4vh;
-    cursor: pointer;
+.Viral_video{
+        margin-top: 5em;
+        font-size: larger;
+        backdrop-filter: blur(4px);
+        background-color: rgba(255, 255, 255, 0.5);
+        width: 80vw;
+        margin: auto;
+        margin-top: 1.8em;
+        height: 15vh;
 }
-.learn_more_button a{
-    text-decoration: none;
-    color: #fff;
-    padding:1vw;
-    background-color: aqua;
-    border-radius: 20px;
-    font-size: 1.2em;
+.Report{
+        margin-top: 5em;
+        font-size: larger;
+        backdrop-filter: blur(4px);
+        background-color: rgba(255, 255, 255, 0.5);
+        width: 80vw;
+        margin: auto;
+        margin-top: 1.8em;
+        height: 15vh;
 }
-.next_meeting_box {
-    position: relative;
-    background: rgb(255, 239, 222);
-    width:100%;
-    height:40vh;
-}
-.next_meeting_box .left {
-    width:30vw;
-    height:auto;
-    float:left;
-    position: absolute;
-    top: 50%;
-    transform: translate(10%, -50%);
-    text-align: center;
-    
-}
-.next_meeting_box .right {
-    width:55vw;
-    height:auto;
-    float:right;
-    position: absolute;
-    top: 50%;
-    transform: translate(70%, -50%);
-    border: green;
-}
-.next_meeting_box .right p{
-    font-size: 1.5em;
-    text-align: center;
-}
-.next_meeting_box .divider{
-    position:absolute;
-    left:35%;
-    top:10%;
-    bottom:10%;
-    border:1px solid aqua;
-}
-.hack_club_explanation_box {
-    position: relative;
-    background: rgb(255, 239, 222);
-    width:100%;
-    height:40vh;
-}
-.hack_club_explanation_box .right {
-    width:29vw;
-    height:auto;
-    float:left;
-    position: absolute;
-    top: 50%;
-    transform: translate(230%, -50%);
-    text-align: center;
-    
-}
-.hack_club_explanation_box .left {
-    width:48vw;
-    height:auto;
-    float:right;
-    position: absolute;
-    top: 50%;
-    transform: translate(10%, -50%);
-    border: green;
-}
-.hack_club_explanation_box .left p{
-    font-size: 1.5em;
-    text-align: center;
-}
-.hack_club_explanation_box .divider{
-    position:absolute;
-    left:62%;
-    top:10%;
-    bottom:10%;
-    border:1px solid aqua;
+.Post_own_vid{
+        margin-top: 5em;
+        font-size: larger;
+        backdrop-filter: blur(4px);
+        background-color: rgba(255, 255, 255, 0.5);
+        width: 80vw;
+        margin: auto;
+        margin-top: 1.8em;
+        height: 15vh;
 }
