@@ -7,6 +7,7 @@
     color: #b01005;
 }
 .Title{
+    text-align: center;
     font-size: 2em;
     color: #fff;
 }
@@ -59,12 +60,7 @@ nav ul li a{
 .auto_type{
     color: aqua;
 }
-.bodtext{
-    color: azure;
-    margin-top: 5vh;
-    text-align: center;
-    font-size: 4em;
-}
+
 .headline_subtext{
     text-align: center;
     font-size: 2em;
