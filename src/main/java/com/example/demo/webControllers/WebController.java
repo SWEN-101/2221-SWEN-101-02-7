@@ -26,4 +26,16 @@ public class WebController {
         log.debug("WebController.page2.()");
         return "about";
     }
+
+    @RequestMapping(value = {"/submitAPost.html"})
+    public String submit(){
+        log.debug("WebController.page2.()");
+        return "submitAPost";
+    }
+
+    @RequestMapping(value = {"/viralVideos.html"})
+    public String viralVideos(){
+        log.debug("WebController.page2.()");
+        return "viralVideos";
+    }
 }
