@@ -15,15 +15,15 @@ An online E-store system built in github.io .. etc. <_replace with other platfor
 ## Prerequisites  <_add anything else that applies_>
 
 - github accounts and basic github.io knowledge
--
+- understanding of CSS and HTML
 -
 
 ## How to access it or run it  <_add when applicable_>
 
 1. Clone the repository and go to the root directory.
-2.  
-3.  
-4.  
+2. Push changes
+3. Use git pull 
+4. Inform others of when they need to git pull
 
 ## Known bugs and disclaimers
 (It may be the case that your implementation is not perfect...)
@@ -40,6 +40,4 @@ If any shortcomings, make clear what these are and where they are located.
 
 ## License
 
-<_replace with the type of license you will use for the project_> e.g. MIT License
-
-See LICENSE for details.
+No license yet, will use github default

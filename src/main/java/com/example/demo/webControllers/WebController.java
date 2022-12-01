@@ -15,4 +15,15 @@ public class WebController {
         return "index";
     }//localhost:8080/home
 
+    @RequestMapping(value = {"/page2"})
+    public String page2(){
+        log.debug("WebController.page2.()");
+        return "page2";
+    }//localHost8080/page2
+
+    @RequestMapping(value = {"/about.html"})
+    public String about(){
+        log.debug("WebController.page2.()");
+        return "about";
+    }
 }
