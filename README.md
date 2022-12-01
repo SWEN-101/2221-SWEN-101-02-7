@@ -9,7 +9,8 @@ An online E-store system built in github.io .. etc. <_replace with other platfor
 - Liang Wu
 - Anthony Peng
 - Cullen Walsh
-- MEMBER04
+- George Zhang
+- Cheyenne Zhang
 
 
 ## Prerequisites  <_add anything else that applies_>
