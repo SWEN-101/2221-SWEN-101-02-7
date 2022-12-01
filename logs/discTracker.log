@@ -247,4 +247,18 @@
 ""2022-11-30 21:33:06 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
 ""2022-11-30 21:33:07 [main] INFO  c.e.d.Team7ProjectCopAccountabilityApplication - Started Team7ProjectCopAccountabilityApplication in 1.373 seconds (process running for 1.669)
 ""2022-11-30 21:33:21 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2022-11-30 21:41:12 [main] INFO  c.e.d.Team7ProjectCopAccountabilityApplication - Starting Team7ProjectCopAccountabilityApplication using Java 18.0.2.1 with PID 5204 (C:\Users\Culle\IdeaProjects\2221-SWEN-101-02-7\target\classes started by Culle in C:\Users\Culle\IdeaProjects\2221-SWEN-101-02-7)
+""2022-11-30 21:41:13 [main] INFO  c.e.d.Team7ProjectCopAccountabilityApplication - No active profile set, falling back to 1 default profile: "default"
+""2022-11-30 21:41:13 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2022-11-30 21:41:13 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.1]
+""2022-11-30 21:41:13 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+""2022-11-30 21:41:14 [main] INFO  c.e.d.Team7ProjectCopAccountabilityApplication - Started Team7ProjectCopAccountabilityApplication in 1.375 seconds (process running for 1.669)
+""2022-11-30 21:41:23 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2022-11-30 21:41:47 [main] INFO  c.e.d.Team7ProjectCopAccountabilityApplication - Starting Team7ProjectCopAccountabilityApplication using Java 18.0.2.1 with PID 28280 (C:\Users\Culle\IdeaProjects\2221-SWEN-101-02-7\target\classes started by Culle in C:\Users\Culle\IdeaProjects\2221-SWEN-101-02-7)
+""2022-11-30 21:41:47 [main] INFO  c.e.d.Team7ProjectCopAccountabilityApplication - No active profile set, falling back to 1 default profile: "default"
+""2022-11-30 21:41:47 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2022-11-30 21:41:47 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.1]
+""2022-11-30 21:41:47 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+""2022-11-30 21:41:48 [main] INFO  c.e.d.Team7ProjectCopAccountabilityApplication - Started Team7ProjectCopAccountabilityApplication in 1.441 seconds (process running for 1.73)
+""2022-11-30 21:42:01 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
 "
