@@ -1,5 +1,5 @@
 * {
-    margin: 0;
+    margin: 50;
     padding: 0;
     font-family: 'poppins', sans-serif;
 }
@@ -51,6 +51,12 @@ nav ul li a{
 }
 .auto_type{
     color: aqua;
+}
+.bodtext{
+    color: azure;
+    margin-top: 5vh;
+    text-align: center;
+    font-size: 4em;
 }
 .headline_subtext{
     text-align: center;
